@@ -12,3 +12,7 @@ end
 fido = Dog.new("fido")
 
 puts fido.name
+
+snoopy = Dog.new("snoopy")
+
+puts snoopy.name
